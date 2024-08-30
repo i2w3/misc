@@ -51,4 +51,6 @@
 
 # blog
 
-## [Windows下启用OpenSSH Sever和开启免密登录](https://salty-akubra-11f.notion.site/Windows-OpenSSH-Sever-1e7f9cd8a881435089fd20fa1f3caadb)
+### [Windows下启用OpenSSH Sever和开启免密登录](https://salty-akubra-11f.notion.site/Windows-OpenSSH-Sever-1e7f9cd8a881435089fd20fa1f3caadb)
+
+### [FRP 多端设置](https://salty-akubra-11f.notion.site/FRP-fff3dfec1146808dbdf3d1e0c6486414?pvs=4)
