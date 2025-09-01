@@ -48,6 +48,18 @@
     "useAcrylic": false
 }
 ```
+## Overleaf Workshop
+```json
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.pdf": "overleaf-workshop.pdfViewer"
+    },
+    "editor.wordWrap": "on"
+}
+```
 
 # blog
 
